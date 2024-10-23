@@ -15,7 +15,7 @@ if (isset($_POST['cu_email'])) {
                         ,'cu_budget'		=>	cleanvars($_POST['cu_budget'])
                         ,'cu_hiring'		=>	cleanvars($_POST['cu_hiring'])
                         ,'cu_detail'		=>	cleanvars($_POST['cu_detail'])
-                    ); 
+                    );  
 
     $sqllms		=	$dblms->insert(CONTACTUS, $values);
     if ($sqllms) {
