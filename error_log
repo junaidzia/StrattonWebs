@@ -1,0 +1,16 @@
+[22-Apr-2024 09:29:02 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/sub-service.php on line 47
+[23-Apr-2024 11:01:02 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/service-detail.php on line 104
+[23-Apr-2024 17:41:29 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/sub-service.php on line 47
+[28-Apr-2024 14:43:58 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/service-detail.php on line 123
+[01-May-2024 05:54:01 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/service-detail.php on line 123
+[08-May-2024 12:54:29 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/service-detail.php on line 123
+[10-May-2024 14:55:24 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/sub-service.php on line 47
+[16-May-2024 16:43:28 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/projects.php on line 77
+[16-May-2024 16:43:41 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/projects.php on line 77
+[16-May-2024 16:43:49 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/projects.php on line 77
+[16-May-2024 16:44:47 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/projects.php on line 77
+[16-May-2024 16:44:52 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/projects.php on line 77
+[16-May-2024 16:45:01 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/projects.php on line 77
+[16-May-2024 16:46:00 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/projects.php on line 77
+[18-May-2024 07:29:17 Asia/Karachi] PHP Warning:  Invalid argument supplied for foreach() in /home/ameresfr/public_html/include/service-detail.php on line 123
+[28-May-2024 23:46:31 Asia/Karachi] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/ameresfr/public_html/include/dbsetting/classdbconection.php on line 19

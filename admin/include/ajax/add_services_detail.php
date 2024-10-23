@@ -1,0 +1,25 @@
+<script>
+    id = ceckid() 
+    item = document.getElementById("change-value")
+    item.id = "ckeditor-"+id;    
+</script>
+<?php 
+    echo '
+    <script src="assets/js/app.js"></script>
+    <div class="p-3 mb-1 bg-light align-items-end">
+        <button class="" onclick="remove(this)">X</button>
+        <div class="row">
+            <div class="col mb-2">
+                <label class="form-label">Title <span class="text-danger">*</span></label>
+                <input type="text" class="form-control" name="sd_title[]" required>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col mb-2">
+                <label class="form-label mb-0">Details</label>
+                <textarea name="sd_des[]" id="change-value" class="form-control"></textarea>
+            </div>
+        </div>
+    </div>
+    '; 
+?>
